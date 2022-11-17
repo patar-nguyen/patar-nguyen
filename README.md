@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick Nguyen!
 - 👀 I’m interested in web development and mobile web applications.
-- 🌱 I’m currently learning: React-Native & SwiftUI
+- 🌱 I’m currently learning: Swift UIKit & SwiftUI
 - 📫 How to reach me: patar.nguyen@gmail.com
 
 <!---
