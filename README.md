@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patrick Nguyen!
-- 👀 I’m interested in web development and mobile web applications.
+- 👀 I’m interested in mobile and web development.
 - 🌱 I’m currently learning: Swift
 - 📫 How to reach me: patar.nguyen@gmail.com
 
