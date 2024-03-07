@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick Nguyen!
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning: Swift
+- 🌱 I’m currently learning: React, Node, and Swift
 - 📫 How to reach me: patar.nguyen@gmail.com
 
 <!---
